@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/next.ico</file>
+        <file>images/pre.ico</file>
+        <file>images/restart.ico</file>
+        <file alias="mainwindowpic">Pic.jpg</file>
+        <file>logo.ico</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/forward.wav</file>
+        <file>music/leak.wav</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>text/0_0.txt</file>
+        <file>text/5_1.txt</file>
+        <file>text/5_2.txt</file>
+        <file>text/6_1.txt</file>
+        <file>text/6_2.txt</file>
+        <file>text/7_1.txt</file>
+        <file>text/7_2.txt</file>
+        <file>text/5_3.txt</file>
+        <file>text/6_3.txt</file>
+        <file>text/5_4.txt</file>
+        <file>text/7_3.txt</file>
+        <file>text/6_4.txt</file>
+        <file>text/7_4.txt</file>
+    </qresource>
+</RCC>
